@@ -1,13 +1,13 @@
-package com.skycheck.proyectomovilesperico;
+package com.adorno;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProyectoMovilesPericoApplication {
+public class SecurityStalessHttpBasic202605Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProyectoMovilesPericoApplication.class, args);
+		SpringApplication.run(SecurityStalessHttpBasic202605Application.class, args);
 	}
 
 }
